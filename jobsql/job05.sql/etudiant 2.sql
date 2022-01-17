@@ -1,0 +1,1 @@
+SELECT prenom, nom,date de naissance,sexe FROM Etudiant
